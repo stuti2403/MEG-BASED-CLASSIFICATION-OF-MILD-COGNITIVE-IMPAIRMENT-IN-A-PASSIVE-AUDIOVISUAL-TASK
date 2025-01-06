@@ -26,7 +26,7 @@ This repository contains the implementation and results of my research project o
   - Event-Related Potentials (ERPs)
 
 ## Methodology
-[Blank diagram.pdf](https://github.com/user-attachments/files/18312447/Blank.diagram.pdf)
+![methodology diagram](https://github.com/user-attachments/assets/fa17e481-26dd-4036-a047-0e911f6758f6)
 
 ### Channel Selection
 - Iterative techniques identified optimal subsets for distinguishing features across conditions.
