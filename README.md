@@ -1,4 +1,4 @@
-# MEG-BASED-CLASSIFICATION-OF-MILD-COGNITIVE-IMPAIRMENT-IN-A-PASSIVE-AUDIOVISUAL-TASK
+# MEG-Based-Classification-of-Mild-Cognitive-Impairment-in-a-Passive-Audiovisual-Task
 This repository contains the implementation and results of my research project on the classification of Mild Cognitive Impairment (MCI) using Magnetoencephalography (MEG) data. The study explores novel machine learning approaches to detect cognitive impairments in MCI patients through task and resting state analyses.
 ## Objectives
 
