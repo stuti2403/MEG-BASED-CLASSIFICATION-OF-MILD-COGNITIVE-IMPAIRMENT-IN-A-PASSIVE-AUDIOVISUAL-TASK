@@ -1,7 +1,5 @@
 ![poster1curvedlatest-1](https://github.com/user-attachments/assets/c8e8c936-ed64-4b49-84c7-faf6602b2b36)
 
-![pic for github mci meg](https://github.com/user-attachments/assets/a88d013d-afe3-4de5-bda5-83e6198624d6)
-
 # MEG-Based-Classification-of-Mild-Cognitive-Impairment-in-a-Passive-Audiovisual-Task
 This repository contains the implementation and results of my research project on the classification of Mild Cognitive Impairment (MCI) using Magnetoencephalography (MEG) data. The study explores novel machine learning approaches to detect cognitive impairments in MCI patients by leveraging evoked potential p50 responses to paired auditory stimuli.
 ## Objectives
