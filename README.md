@@ -64,35 +64,6 @@ This repository contains the implementation and results of my research project o
 - Identified neuromarkers associated with attentional impairments using machine learning.
 - Laid groundwork for early diagnostic strategies for cognitive disorders.
 
-## Repository Contents
-
-- **`data/`**: Processed MEG datasets (subject to data-sharing policies).
-- **`notebooks/`**: Jupyter notebooks with code for preprocessing, feature extraction, and model training.
-- **`results/`**: Output files and performance metrics for all models.
-- **`docs/`**: Detailed project documentation.
-
-## How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/mci-meg-classification.git
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run preprocessing and feature extraction:
-   ```bash
-   python preprocess.py
-   ```
-4. Train models:
-   ```bash
-   python train.py
-   ```
-5. Evaluate results:
-   ```bash
-   python evaluate.py
-   ```
 
 ## Future Work
 
